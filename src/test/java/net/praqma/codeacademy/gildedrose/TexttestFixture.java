@@ -1,6 +1,6 @@
 package net.praqma.codeacademy.gildedrose;
 
-public class TexttestFixture {
+ublic class TexttestFixture {
     public static void main(String[] args) {
         System.out.println("OMGHAI!");
 
